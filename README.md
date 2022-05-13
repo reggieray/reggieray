@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Matthew Regis
 
+I'm a .NET software engineer, sometimes I write blogs on my website which you can checkout here [https://matthewregis.dev](https://matthewregis.dev).
 <!--
 **reggieray/reggieray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
